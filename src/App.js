@@ -1,16 +1,16 @@
-import React from "react";
+import React from 'react';
 
 function App() {
   return (
     <div className='main'>
       <h2>
-        You are being redirected to{" "}
+        You are being redirected to{' '}
         <a
-          href='https://www.erugogada.com/'
+          href='https://www.enzovvv.xyz/'
           target='_blank'
           rel='noopener noreferrer'
         >
-          erugogada.com
+          enzovvv.xyz
         </a>
       </h2>
     </div>
